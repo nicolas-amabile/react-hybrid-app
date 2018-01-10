@@ -21,13 +21,13 @@ yarn install
 cd web
 yarn run start
 ```
-![Alt text](screenshots/web.png?raw=true "Web")
+<img src="screenshots/web.png" height="500"/>
 
 ### Native
 ```
 cd native
 yarn run start
 ```
- ![Alt text](screenshots/native.png?raw=true "Native")
+ <img src="screenshots/native.png" height="500"/>
  
  Comments are more than welcome! 🎉
