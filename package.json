@@ -1,0 +1,13 @@
+{
+  "name": "react-hybrid-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proof of concept for reactJS and react-native app sharing code",
+  "author": "Nicolas Amabile",
+  "license": "MIT",
+  "workspaces": [
+    "web",
+    "native",
+    "core"
+  ]
+}
